@@ -34,8 +34,62 @@
     "collector_name": "Online Portal"
   }
 ],
-"credit-account": {
-   "id": "ACC-100001"
+"credit-accounts": [
+  {
+    "external_account_id": "ACC-100001",
 
+    "national_id": "12345678901",
+
+    "full_name_ar": "أحمد محمد",
+    "full_name_en": "Ahmed Mohammad",
+
+    "mobile_number": "0999999999",
+
+    "city": "Damascus",
+    "address": "Mazzeh",
+
+    "account_type": "fixed_installment",
+    "product_type": "Mobile Phone",
+
+    "principal_amount": 800,
+    "total_payable": 1000,
+
+    "installment_count": 10,
+    "installment_value": 100,
+
+    "balance_remaining": 400,
+
+    "status": "ACTIVE",
+
+    "start_date": "2026-01-10",
+    "due_date": "2026-10-10"
+  },
+
+  {
+    "external_account_id": "ACC-100002",
+
+    "national_id": "555888777",
+
+    "full_name_ar": "محمد علي",
+    "full_name_en": "Mohammad Ali",
+
+    "mobile_number": "0988888888",
+
+    "city": "Aleppo",
+
+    "account_type": "open_ended",
+
+    "product_type": "Store Credit",
+
+    "principal_amount": 5000,
+
+    "total_payable": 5000,
+
+    "credit_limit": 10000,
+
+    "balance_remaining": 3200,
+
+    "status": "ACTIVE"
   }
+]
 }
