@@ -1,17 +1,13 @@
+
+
 {
-  "customer1":[
-  {
-    "external_account_id": "ACC-1001",
-    "national_id": "123456789",
-    "customer_name": "Ahmad Ali",
-    "mobile_number": "0999999999",
-    "product_type": "mobile_phone",
-    "principal_amount": 500,
-    "total_payable": 600,
-    "installment_count": 6,
-    "installment_value": 100,
-    "balance_remaining": 400,
-    "status": "ACTIVE"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  ]
 }
