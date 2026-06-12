@@ -2,7 +2,7 @@
 {
   "payments":[
        {
-    "id": "PAY-90001",
+    "external_payment_id": "PAY-90001",
 
     "external_account_id": "ACC-100001",
 
@@ -19,7 +19,7 @@
     "notes": "Monthly installment"
      },
      {
-    "id": "PAY-90002",
+    "external_payment_id": "PAY-90002",
 
     "external_account_id": "ACC-100001",
 
