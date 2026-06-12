@@ -1,0 +1,42 @@
+
+{
+  "payments":[
+       {
+    "id": "PAY-90001",
+
+    "external_account_id": "ACC-100001",
+
+    "transaction_ref": "TX-556677",
+
+    "amount_paid": 100,
+
+    "payment_method": "cash",
+
+    "payment_date": "2026-06-12T10:30:00+00:00",
+
+    "collector_name": "Ali Hassan",
+
+    "notes": "Monthly installment"
+     },
+
+     {
+    "payment_id": "PAY-90002",
+
+    "external_account_id": "ACC-100001",
+
+    "transaction_ref": "TX-556678",
+
+    "amount_paid": 100,
+
+    "payment_method": "bank_transfer",
+
+    "payment_date": "2026-07-12T09:20:00+00:00",
+
+    "collector_name": "Online Portal"
+  }
+],
+"credit-account": {
+   "id": "ACC-100001"
+
+  }
+}
