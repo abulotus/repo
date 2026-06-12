@@ -1,4 +1,5 @@
-[
+{
+  "customer1":[
   {
     "external_account_id": "ACC-1001",
     "national_id": "123456789",
@@ -12,4 +13,5 @@
     "balance_remaining": 400,
     "status": "ACTIVE"
   }
-]
+  ]
+}
